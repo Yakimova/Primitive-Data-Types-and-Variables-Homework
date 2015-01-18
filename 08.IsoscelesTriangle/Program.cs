@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Text;
 /*
+    Problem 8. Isosceles Triangle
     Write a program that prints an isosceles triangle of 9 copyright symbols ©.
  */
 class IsoscelesTriangle

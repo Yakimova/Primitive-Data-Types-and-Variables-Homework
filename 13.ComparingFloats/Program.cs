@@ -1,6 +1,7 @@
 ﻿using System;
 /*
-     Write a program that safely compares floating-point numbers (double) with precision eps = 0.000001.
+    Problem 13.* Comparing Floats
+    Write a program that safely compares floating-point numbers (double) with precision eps = 0.000001.
  */
 class ComparingFloats
 {
